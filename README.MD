@@ -1,0 +1,1 @@
+As explained here: http://androidshenanigans.blogspot.pt/2015/03/overdraw-in-fragments.html

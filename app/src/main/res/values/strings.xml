@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OverdrawTest</string>
+    <string name="action_settings">Change Fragment</string>
+</resources>
